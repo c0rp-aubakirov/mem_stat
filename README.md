@@ -25,7 +25,7 @@ More precise process name would produce more precise memory usage
 
 ## Quick run
 
-#### Check how much memory eats processes with "chrome" string.
+**Check how much memory eats processes with "chrome" string.**
 
 	$ bash <(wget -O - https://raw.githubusercontent.com/c0rp-aubakirov/mem_stat/master/mem_stat.sh) chrome
 
