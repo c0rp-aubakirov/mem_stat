@@ -1,4 +1,4 @@
-##Memory usage finder. Finds memory usage for all processes with particular name
+## Memory usage finder. Finds memory usage for all processes with particular name
 
 This script showing memory usage by process name or process execution command
 
@@ -28,8 +28,6 @@ More precise process name would produce more precise memory usage
 #### Check how much memory eats processes with "chrome" string.
 
 	$ bash <(wget -O - https://raw.githubusercontent.com/c0rp-aubakirov/mem_stat/master/mem_stat.sh) chrome
-
-
 
 ## Installation
 
